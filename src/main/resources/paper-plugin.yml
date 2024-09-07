@@ -1,7 +1,8 @@
-name: PaperBoilerplate
-main: com.liamxsage.boilerplates.PaperBoilerplate
+name: OceanWorldGenerator
+main: com.liamxsage.oceanworldgenerator.OceanWorldGenerator
 version: ${version}
-description: "This is a template for a new plugin based on Paper and the new Minecraft API."
+description: "Generates a world with a warm ocean"
 author: "LiamXSage"
 api-version: "1.21"
-loader: com.liamxsage.boilerplates.DependencyLoader
+loader: com.liamxsage.oceanworldgenerator.DependencyLoader
+load: STARTUP

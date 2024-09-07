@@ -1,4 +1,4 @@
-package com.liamxsage.boilerplates.annotations
+package com.liamxsage.oceanworldgenerator.annotations
 
 import org.bukkit.permissions.PermissionDefault
 
